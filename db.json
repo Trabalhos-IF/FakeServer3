@@ -1,0 +1,32 @@
+{
+  "produtoras": [
+    {
+      "id": 1,
+      "nome": "produtora1"
+    },
+    {
+      "id": 2,
+      "nome": "Josias Filmes"
+    }
+  ],
+  "tiposTicket": [
+    {
+      "id": 1,
+      "nome": "tipo1"
+    },
+    {
+      "id": 2,
+      "nome": "tipo2"
+    }
+  ],
+  "formasPagamento": [
+    {
+      "id": 1,
+      "nome": "forma1"
+    },
+    {
+      "id": 2,
+      "nome": "forma2"
+    }
+  ]
+}
