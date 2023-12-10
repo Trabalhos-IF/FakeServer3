@@ -12,11 +12,15 @@
   "tiposTicket": [
     {
       "id": 1,
-      "nome": "tipo1"
+      "idCinema": 2,
+      "tipo": "tipo1",
+      "valor": 50
     },
-    {
+   {
       "id": 2,
-      "nome": "tipo2"
+      "idCinema": 2,
+      "tipo": "tipo2",
+      "valor": 25
     }
   ],
   "formasPagamento": [
